@@ -14,9 +14,9 @@ This is a programmer that uses the Arduino as ISP to program the ATTinies. There
 - [Pics or it didn't happen](#pics-or-it-didnt-happen)
 
 ## Convinient Links
-[How to program an Attiny85](https://www.instructables.com/How-to-Program-an-Attiny85-From-an-Arduino-Uno/)
-[ATTiny 25/45/85 Pinout/Datasheet](https://ww1.microchip.com/downloads/en/devicedoc/atmel-2586-avr-8-bit-microcontroller-attiny25-attiny45-attiny85_datasheet.pdf)
-[ATTiny 24/44/84 Pinout/Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/doc8006.pdf)
+ - [How to program an Attiny85](https://www.instructables.com/How-to-Program-an-Attiny85-From-an-Arduino-Uno/)
+ - [ATTiny 25/45/85 Pinout/Datasheet](https://ww1.microchip.com/downloads/en/devicedoc/atmel-2586-avr-8-bit-microcontroller-attiny25-attiny45-attiny85_datasheet.pdf)
+ - [ATTiny 24/44/84 Pinout/Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/doc8006.pdf)
 
 
 
@@ -59,7 +59,9 @@ I have provided a sample blink sketch. If you find that the LED is blinking fast
 
 ## The LED?
 Yea, there is an LED connected to MISO. With that, you can have a startup script that helps you verify that your program successfully uploaded.
+
 On an Attiny85: MISO is Pin 6(**PB1**)
+
 On an Attiny84: MISO is Pin 8(**PB5**)
 
 ## Pics or it didn't happen
