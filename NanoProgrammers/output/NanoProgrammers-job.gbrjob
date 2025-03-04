@@ -3,14 +3,14 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "8.0.7"
+      "Version": "9.0.0"
     },
-    "CreationDate": "2025-02-21T23:23:42-08:00"
+    "CreationDate": "2025-03-04T00:13:22-08:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "Attiny2x4x8x Programmers",
-      "GUID": "41747469-6e79-4327-9834-783878205072",
+      "Name": "NanoProgrammers",
+      "GUID": "4e616e6f-5072-46f6-9772-616d6d657273",
       "Revision": "rev?"
     },
     "Size": {
@@ -24,57 +24,57 @@
   "DesignRules": [
     {
       "Layers": "Outer",
-      "PadToPad": 0.15,
-      "PadToTrack": 0.15,
-      "TrackToTrack": 0.15,
+      "PadToPad": 0.2,
+      "PadToTrack": 0.2,
+      "TrackToTrack": 0.2,
       "MinLineWidth": 0.75,
-      "TrackToRegion": 0.4,
-      "RegionToRegion": 0.4
+      "TrackToRegion": 0.5,
+      "RegionToRegion": 0.5
     }
   ],
   "FilesAttributes": [
     {
-      "Path": "Attiny2x4x8x Programmers-F_Cu.gbr",
+      "Path": "NanoProgrammers-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "Attiny2x4x8x Programmers-B_Cu.gbr",
+      "Path": "NanoProgrammers-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "Attiny2x4x8x Programmers-F_Paste.gbr",
+      "Path": "NanoProgrammers-F_Paste.gbr",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "Attiny2x4x8x Programmers-B_Paste.gbr",
+      "Path": "NanoProgrammers-B_Paste.gbr",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "Attiny2x4x8x Programmers-F_Silkscreen.gbr",
+      "Path": "NanoProgrammers-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "Attiny2x4x8x Programmers-B_Silkscreen.gbr",
+      "Path": "NanoProgrammers-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "Attiny2x4x8x Programmers-F_Mask.gbr",
+      "Path": "NanoProgrammers-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "Attiny2x4x8x Programmers-B_Mask.gbr",
+      "Path": "NanoProgrammers-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "Attiny2x4x8x Programmers-Edge_Cuts.gbr",
+      "Path": "NanoProgrammers-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
